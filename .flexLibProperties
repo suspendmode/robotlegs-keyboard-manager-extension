@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="robotlegs.suspendmode.keyboard.KeyboardManagerExtension"/>
+    <classEntry path="robotlegs.suspendmode.keyboard.api.IKeyboardManager"/>
+    <classEntry path="robotlegs.suspendmode.keyboard.dsl.IShortcutMapper"/>
+    <classEntry path="robotlegs.suspendmode.keyboard.impl.Key"/>
+    <classEntry path="robotlegs.suspendmode.keyboard.impl.KeyboardManager"/>
+    <classEntry path="robotlegs.suspendmode.keyboard.impl.KeyboardManagerBase"/>
+    <classEntry path="robotlegs.suspendmode.keyboard.impl.Shortcut"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
